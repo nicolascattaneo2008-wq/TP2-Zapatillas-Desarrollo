@@ -1,0 +1,61 @@
+codigo,marca,modelo,talle,stock,stock_minimo
+ZAP-001,Nike,Air Force 1,38,2,5
+ZAP-002,Nike,Air Force 1,39,5,5
+ZAP-003,Nike,Air Force 1,40,8,5
+ZAP-004,Nike,Air Force 1,41,1,5
+ZAP-005,Nike,Air Force 1,42,6,5
+ZAP-006,Nike,Air Force 1,43,3,5
+ZAP-007,Nike,Dunk Low,38,4,5
+ZAP-008,Nike,Dunk Low,39,7,5
+ZAP-009,Nike,Dunk Low,40,0,5
+ZAP-010,Nike,Dunk Low,41,5,5
+ZAP-011,Nike,Dunk Low,42,8,5
+ZAP-012,Nike,Dunk Low,43,2,5
+ZAP-013,Adidas,Campus,38,6,5
+ZAP-014,Adidas,Campus,39,1,5
+ZAP-015,Adidas,Campus,40,3,5
+ZAP-016,Adidas,Campus,41,7,5
+ZAP-017,Adidas,Campus,42,0,5
+ZAP-018,Adidas,Campus,43,5,5
+ZAP-019,Adidas,Samba,38,8,5
+ZAP-020,Adidas,Samba,39,4,5
+ZAP-021,Adidas,Samba,40,2,5
+ZAP-022,Adidas,Samba,41,6,5
+ZAP-023,Adidas,Samba,42,3,5
+ZAP-024,Adidas,Samba,43,1,5
+ZAP-025,Puma,Suede,38,0,5
+ZAP-026,Puma,Suede,39,3,5
+ZAP-027,Puma,Suede,40,5,5
+ZAP-028,Puma,Suede,41,9,5
+ZAP-029,Puma,Suede,42,2,5
+ZAP-030,Puma,Suede,43,4,5
+ZAP-031,Vans,Old Skool,38,5,5
+ZAP-032,Vans,Old Skool,39,6,5
+ZAP-033,Vans,Old Skool,40,1,5
+ZAP-034,Vans,Old Skool,41,0,5
+ZAP-035,Vans,Old Skool,42,7,5
+ZAP-036,Vans,Old Skool,43,3,5
+ZAP-037,New Balance,550,38,3,5
+ZAP-038,New Balance,550,39,2,5
+ZAP-039,New Balance,550,40,8,5
+ZAP-040,New Balance,550,41,4,5
+ZAP-041,New Balance,550,42,1,5
+ZAP-042,New Balance,550,43,5,5
+ZAP-043,Converse,Chuck Taylor,38,7,5
+ZAP-044,Converse,Chuck Taylor,39,6,5
+ZAP-045,Converse,Chuck Taylor,40,4,5
+ZAP-046,Converse,Chuck Taylor,41,3,5
+ZAP-047,Converse,Chuck Taylor,42,2,5
+ZAP-048,Converse,Chuck Taylor,43,1,5
+ZAP-049,Reebok,Club C,38,1,5
+ZAP-050,Reebok,Club C,39,8,5
+ZAP-051,Reebok,Club C,40,6,5
+ZAP-052,Reebok,Club C,41,2,5
+ZAP-053,Reebok,Club C,42,5,5
+ZAP-054,Reebok,Club C,43,0,5
+ZAP-055,Converse,Run Star Hike,38,4,5
+ZAP-056,Converse,Run Star Hike,39,3,5
+ZAP-057,Converse,Run Star Hike,40,2,5
+ZAP-058,Converse,Run Star Hike,41,1,5
+ZAP-059,Converse,Run Star Hike,42,5,5
+ZAP-060,Converse,Run Star Hike,43,0,5

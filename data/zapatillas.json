@@ -1,0 +1,482 @@
+[
+  {
+    "codigo": "ZAP-001",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "talle": 38,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-002",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "talle": 39,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-003",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "talle": 40,
+    "stock": 8,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-004",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "talle": 41,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-005",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "talle": 42,
+    "stock": 6,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-006",
+    "marca": "Nike",
+    "modelo": "Air Force 1",
+    "talle": 43,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-007",
+    "marca": "Nike",
+    "modelo": "Dunk Low",
+    "talle": 38,
+    "stock": 4,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-008",
+    "marca": "Nike",
+    "modelo": "Dunk Low",
+    "talle": 39,
+    "stock": 7,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-009",
+    "marca": "Nike",
+    "modelo": "Dunk Low",
+    "talle": 40,
+    "stock": 0,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-010",
+    "marca": "Nike",
+    "modelo": "Dunk Low",
+    "talle": 41,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-011",
+    "marca": "Nike",
+    "modelo": "Dunk Low",
+    "talle": 42,
+    "stock": 8,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-012",
+    "marca": "Nike",
+    "modelo": "Dunk Low",
+    "talle": 43,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-013",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "talle": 38,
+    "stock": 6,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-014",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "talle": 39,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-015",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "talle": 40,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-016",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "talle": 41,
+    "stock": 7,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-017",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "talle": 42,
+    "stock": 0,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-018",
+    "marca": "Adidas",
+    "modelo": "Campus",
+    "talle": 43,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-019",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "talle": 38,
+    "stock": 8,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-020",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "talle": 39,
+    "stock": 4,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-021",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "talle": 40,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-022",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "talle": 41,
+    "stock": 6,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-023",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "talle": 42,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-024",
+    "marca": "Adidas",
+    "modelo": "Samba",
+    "talle": 43,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-025",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "talle": 38,
+    "stock": 0,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-026",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "talle": 39,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-027",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "talle": 40,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-028",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "talle": 41,
+    "stock": 9,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-029",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "talle": 42,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-030",
+    "marca": "Puma",
+    "modelo": "Suede",
+    "talle": 43,
+    "stock": 4,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-031",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "talle": 38,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-032",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "talle": 39,
+    "stock": 6,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-033",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "talle": 40,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-034",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "talle": 41,
+    "stock": 0,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-035",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "talle": 42,
+    "stock": 7,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-036",
+    "marca": "Vans",
+    "modelo": "Old Skool",
+    "talle": 43,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-037",
+    "marca": "New Balance",
+    "modelo": "550",
+    "talle": 38,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-038",
+    "marca": "New Balance",
+    "modelo": "550",
+    "talle": 39,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-039",
+    "marca": "New Balance",
+    "modelo": "550",
+    "talle": 40,
+    "stock": 8,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-040",
+    "marca": "New Balance",
+    "modelo": "550",
+    "talle": 41,
+    "stock": 4,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-041",
+    "marca": "New Balance",
+    "modelo": "550",
+    "talle": 42,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-042",
+    "marca": "New Balance",
+    "modelo": "550",
+    "talle": 43,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-043",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor",
+    "talle": 38,
+    "stock": 7,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-044",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor",
+    "talle": 39,
+    "stock": 6,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-045",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor",
+    "talle": 40,
+    "stock": 4,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-046",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor",
+    "talle": 41,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-047",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor",
+    "talle": 42,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-048",
+    "marca": "Converse",
+    "modelo": "Chuck Taylor",
+    "talle": 43,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-049",
+    "marca": "Reebok",
+    "modelo": "Club C",
+    "talle": 38,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-050",
+    "marca": "Reebok",
+    "modelo": "Club C",
+    "talle": 39,
+    "stock": 8,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-051",
+    "marca": "Reebok",
+    "modelo": "Club C",
+    "talle": 40,
+    "stock": 6,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-052",
+    "marca": "Reebok",
+    "modelo": "Club C",
+    "talle": 41,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-053",
+    "marca": "Reebok",
+    "modelo": "Club C",
+    "talle": 42,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-054",
+    "marca": "Reebok",
+    "modelo": "Club C",
+    "talle": 43,
+    "stock": 0,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-055",
+    "marca": "Converse",
+    "modelo": "Run Star Hike",
+    "talle": 38,
+    "stock": 4,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-056",
+    "marca": "Converse",
+    "modelo": "Run Star Hike",
+    "talle": 39,
+    "stock": 3,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-057",
+    "marca": "Converse",
+    "modelo": "Run Star Hike",
+    "talle": 40,
+    "stock": 2,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-058",
+    "marca": "Converse",
+    "modelo": "Run Star Hike",
+    "talle": 41,
+    "stock": 1,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-059",
+    "marca": "Converse",
+    "modelo": "Run Star Hike",
+    "talle": 42,
+    "stock": 5,
+    "stock_minimo": 5
+  },
+  {
+    "codigo": "ZAP-060",
+    "marca": "Converse",
+    "modelo": "Run Star Hike",
+    "talle": 43,
+    "stock": 0,
+    "stock_minimo": 5
+  }
+]
