@@ -1,0 +1,13 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos privados
+.env
+
+# Resultados generados
+outputs/
