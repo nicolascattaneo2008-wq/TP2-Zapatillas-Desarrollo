@@ -80,11 +80,26 @@ def mostrar_reposicion(productos):
     print(f"Productos a reponer: {cantidad_productos}")
     print(f"Total de pares a reponer: {total_pares}")
 
+def guardar_incidencias(rechazos, normalizados):
+    carpeta = Path("outputs")
+    carpeta.mkdir(exist_ok=True)
+
+    with open(carpeta / "incidencias.csv", "w", newline="", encoding="utf-8") as archivo:
+        escritor = csv.writer(archivo)
+        escritor.writerow(["tipo", "fila", "motivo"])
+
+        for rechazo in rechazos:
+            escritor.writerow(["Rechazado", rechazo["fila"], rechazo["motivo"]])
+
+        for numero in normalizados:
+            escritor.writerow(["Normalizado", numero, "Se ajustaron espacios o codigo"])
+
 def main():
     archivo_stock = Path("outputs/stock_actual.csv")
     ruta = archivo_stock if archivo_stock.exists() else Path("data/zapatillas.csv")
     filas = FuenteCSV().cargar(ruta)
     productos, rechazos, normalizados = preparar_productos(filas)
+    guardar_incidencias(rechazos, normalizados)
 
     print(f"Productos cargados: {len(productos)}")
     print(f"Productos rechazados: {len(rechazos)}")
