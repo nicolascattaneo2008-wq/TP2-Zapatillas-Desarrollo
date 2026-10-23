@@ -65,6 +65,21 @@ def guardar_stock(productos):
         for p in productos:
             escritor.writerow([p.codigo, p.marca, p.modelo, p.talle, p.stock, p.stock_minimo])
 
+def mostrar_reposicion(productos):
+    cantidad_productos = 0
+    total_pares = 0
+
+    for p in productos:
+        faltan = p.faltantes()
+
+        if faltan > 0:
+            print(f"{p.codigo} | {p.marca} | {p.modelo} | Talle {p.talle} | Faltan: {faltan}")
+            cantidad_productos += 1
+            total_pares += faltan
+
+    print(f"Productos a reponer: {cantidad_productos}")
+    print(f"Total de pares a reponer: {total_pares}")
+
 def main():
     archivo_stock = Path("outputs/stock_actual.csv")
     ruta = archivo_stock if archivo_stock.exists() else Path("data/zapatillas.csv")
@@ -80,6 +95,7 @@ def main():
         print("2. Buscar zapatillas")
         print("3. Registrar entrada de pares")
         print("4. Registrar salida de pares")
+        print("5. Informe de reposición")
         print("0. Salir")
 
         opcion = input("Elegí una opción: ")
@@ -98,6 +114,9 @@ def main():
 
         elif opcion == "4":
             registrar_movimiento(productos, "salida")
+
+        elif opcion == "5":
+            mostrar_reposicion(productos)
 
         elif opcion == "0":
             print("Programa finalizado.")
