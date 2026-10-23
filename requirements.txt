@@ -1,0 +1,1 @@
+# El proyecto utiliza Python 3 y no requiere paquetes externos.
